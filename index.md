@@ -1,5 +1,7 @@
 ## Welcome to my Portfolio
 
+![nelson](https://bnp.org.uk/wp-content/uploads/2019/10/horatio-nelson.jpg)
+
 
 ### CIT 281
 
